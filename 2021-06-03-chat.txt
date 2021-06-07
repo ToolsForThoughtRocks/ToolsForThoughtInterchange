@@ -1,0 +1,219 @@
+00:27:02	Frode Hegland:	yes
+00:27:05	Norman Chella:	👍
+00:27:52	Brian James Rubinton - Kanopi.io:	I hope these tools don't over-optimize for task/project management and team documentation.
+00:29:26	Jess Martin:	@Brian: precisely why I find it "regrettable". My dream is that we see a cornucopia of tools, toys, explorations, and such springing up and cross-pollenating over the next few years. Premature widespread commercial adoption seems problematic to me.
+00:30:09	Brian James Rubinton - Kanopi.io:	@Jess Problematic but I'd also love some more commercial adoption! :) Tough to avoid $$$
+00:30:52	Jess Martin:	hahaha true good point! figuring out how to fund the explorations w/o widespread commercial adoption: another pressing problem ;)
+00:30:53	Brian James Rubinton - Kanopi.io:	Maybe it's in part necessary for other products to go first - a first wave to soak up those use-cases
+00:31:37	Jess Martin:	Notion, Coda, Airtable seem to be serving as that "early absorption" pretty well (though I think we have leagues to go beyond those tools)
+00:31:47	Brian James Rubinton - Kanopi.io:	Exactly
+00:32:43	Marc-Antoine Parent:	IPFS, Gun, Hypercore and Holochain are  kinda competing in that (broad) domain
+00:33:18	Jess Martin:	@map thanks for those references! what do you call that "domain", broadly?
+00:33:26	Marc-Antoine Parent:	distributed web
+00:35:14	Norman Chella:	If there was a TFT x Email function with OCR, that behavior would be so cool
+00:35:58	Jess Martin:	@norman I think this one is pretty awesome: https://screenotate.com/
+00:36:48	A B:	Hi everyone! Are there graph database implementations with IPFS?
+00:36:58	Boris Mann:	IPFS has a graph structure underneath
+00:37:31	Norman Chella:	@Jess oh wow thanks for this! I've always done OCR through Google Keep, and tons of screenshots and manually transcribing them, this actually looks pretty good
+00:37:33	Marc-Antoine Parent:	Yes... Look up IPLD for the graph structure over (not under) IPFS. But I still would not call it a graph database (not indexed)
+00:38:07	Jess Martin:	@norman - also check out the other work the author (Omar Rizwan) has done. He's _very_ interesting!
+00:38:38	Norman Chella:	I follow Omar! Didn't realize it was his creation 😄
+00:41:28	Jess Martin:	"relation" sounds like systems thinking. The system is not merely the sum of its parts but the relation between the nodes.
+00:42:15	Norman Chella:	colour idea = rather the articulation of the message, but the most atomic form of the meaning behind the message?
+00:42:55	Brian James Rubinton - Kanopi.io:	How does this definition of relation differ from emergent phenomenon or viewing things at different levels of scale? (people as people vs bags of organs vs clumps of atoms)
+00:44:13	Norman Chella:	^Maybe it's what can be observed vs. cannot: where something must be conceptualized in our heads from the sum of all the observations within a moment (eg. upon looking at a painting), rather than what can possibly be observed (eg. atoms can be measured/viewed)
+00:45:10	Brian James Rubinton - Kanopi.io:	Does that limit the concept to the relative power of one's evolved tools for perception?
+00:46:17	Norman Chella:	Don't think so, that may be when imagination comes into play: integration of previous observations, thoughts etc. I think with the sum of my entire life to conceptualize this entity rather than leave it at surface-level observation. Tools for perception become an extension of my processing ability
+00:46:36	Norman Chella:	Just as a poet does in terms of words - articulating expressions through relation, we become provoked by their ability to relate anything to everything
+00:47:21	Frode Hegland:	Wonderful to be here to listen to this and see the comments. Feels like home :-)
+00:47:34	Jack Park:	:)
+00:47:38	Jess Martin:	@frode: agreed. goosebumps.
+00:47:46	Frode Hegland:	:-)
+00:47:54	Marc-Antoine Parent:	I think it's beyond perception, though the notion of Gestalt is rooted in perception. It's any systemic pattern, whether perceived or not
+00:48:33	Marc-Antoine Parent:	Multiple interpretations of any symbol, absolutely
+00:49:11	Blaine Cook:	Frode, yes, agreed - I love listening to Iian, and I’m sitting here just saying “yes” in varying intonations at my screen. 😄
+00:49:28	Norman Chella:	Wow. Tyranny, that's strong framing
+00:49:47	Marc-Antoine Parent:	I support that framing.
+00:49:50	Blaine Cook:	Norman: Yes, and I couldn’t agree more.
+00:49:57	Norman Chella:	Yeah, it's beautiful
+00:50:20	Peter Wasilko:	Open Hypermedia is the way to go.
+00:50:27	Norman Chella:	Introduces that hierarchical element to markup - as soon as I see yours I must humble myself to your understanding to interpret your markup
+00:51:21	Wendy Elford:	Markup is imposes meaning?
+00:52:32	A B:	Good question
+00:52:42	A B:	How?
+00:52:44	Blaine Cook:	Wendy: Yes! I love that framing. Expressing knowledge in [inline] Markup is like trying to express poetry or art with the simple grammar of a programming language.
+00:53:13	Marc-Antoine Parent:	The question is: can you layer other interpretations (meanings) on markup text? Not easily.
+00:53:33	Marc-Antoine Parent:	The point is for anybody being able to propose an interpretive layer.
+00:53:47	Wendy Elford:	the analogue of this is ‘clean language’ a la David Grove
+00:53:52	Peter Wasilko:	To my mind knowledge = parsable text
+00:54:16	Marc-Antoine Parent:	text almost always has >1 parsing
+00:54:49	Jess Martin:	"desktop state as a UNIT OF WORK" is such a great example of the relation principle in action. the different "windows" opened up, etc, is work in itself.
+00:54:50	Brian James Rubinton - Kanopi.io:	isn't knowledge embedded in text, with no single embedding?
+00:54:53	Boris Mann:	I like that, I need to collaborate with future self / past self
+00:55:26	Peter Wasilko:	That is why I tend to use Parsing Expression Grammars in all my code, so I’ll only get one canonical parse.
+00:55:27	Jack Park:	A lot of text is deliberately ambiguous. Seems you need to be able to make multiple parses.
+00:55:33	Wendy Elford:	At the level of metaphor there are some adjacencies but always(?) devolves to n=1 for deeper meaning
+00:56:05	Marc-Antoine Parent:	@Peter one parse is a choice among possible parses. But I meant your grammatical/semantic parsing in wetware
+00:56:14	Blaine Cook:	yes yes yes yes re: multi-user
+00:56:31	Marc-Antoine Parent:	@Brian absolutely, the "no single embedding" is key
+00:56:54	Boris Mann:	I just found a windowing / layering plugin for TiddlyWiki https://thesherwood.github.io/Mentat/#%24%3A%2Fplugins%2Fadmls%2Fengine:%5B%5B%24%3A%2FWindow%201%5D%5D%20%5B%5B%24%3A%2FWindow%203%5D%5D%20%24%3A%2FSidebar%20%24%3A%2FTopbar%20%24%3A%2FWindowbar
+00:57:20	Peter Wasilko:	@Marc, ah, I see what you mean now.
+00:57:30	Jess Martin:	@boris woah, that's wild.
+00:57:40	Blaine Cook:	If I was a linguist, I’d say something about “parsing language” being the rules for understanding, and the experience of conversation being what we should be attempting to enable.
+00:57:50	Wendy Elford:	Meaning is context sensitive - time and environment, not just actor.
+00:58:11	Norman Chella:	@Wendy +1
+00:58:32	Boris Mann:	@blaine there is even something there about formal conversation vs informal
+00:58:40	Boris Mann:	I always think of the different forms of address in German
+00:58:58	Jess Martin:	@blaine: the augmented conversation :) that "experience of conversation" is often about sharing knowledge between two sets of wetware (to Wendy's point, sharing your context).
+00:59:08	Peter Wasilko:	If I want to get multiple interpretations I’d use a Combinatory Categorial Grammar
+01:00:51	Peter Wasilko:	Mark Steedman’s work is really fascinating there. https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf
+01:00:58	Wendy Elford:	Finely grained data; allows deeper levels of integration. Resolution is never achieved
+01:02:36	Wendy Elford:	equivalent is ignorance based learning - properties - knowing fallibly
+01:02:37	Marc-Antoine Parent:	Wendy that makes sense to me. Resolution is an asymptotic goal.
+01:03:12	Gyuri Lajos:	Graph Database over IPFS, @TrailMarks is building one called MindGraph
+01:05:50	Wendy Elford:	Fav framework here for me is taxonomy of ignorance Michael Smithson
+01:06:33	Peter Wasilko:	Authority Control can be a real nightmare.
+01:08:09	Gordon:	Hildegard von Bingen! https://youtu.be/Ei88J4lERbk
+01:08:31	Marc-Antoine Parent:	Beautiful work!
+01:08:33	Jess Martin:	👏
+01:08:34	Norman Chella:	Practical illustration = music to my ears
+01:08:40	Gordon:	👏
+01:08:41	Frode Hegland:	And beautiful presentation!
+01:08:49	Norman Chella:	👏
+01:09:01	Blaine Cook:	👏
+01:09:19	Marc-Antoine Parent:	👏👏👏
+01:09:23	Norman Chella:	Best answer
+01:10:02	Jess Martin:	feels like we are stepping into the matrix... :)
+01:10:44	Norman Chella:	WHAT
+01:10:54	Norman Chella:	The YT video becomes the 'wallpaper'??
+01:11:13	A B:	Hi Lian! The relations between nodes are "standoff" too? They exist as nodes too? How that's possible?
+01:12:55	Norman Chella:	The auto-wrap is so beautiful
+01:13:29	A B:	Fantastic
+01:13:38	Jess Martin:	woah overlapping links
+01:13:47	A B:	Standoff power
+01:13:55	Boris Mann:	Yeah, that’s the standoff / external markup — infinite overlaps
+01:14:20	Norman Chella:	Oh wow
+01:14:21	Jess Martin:	definitely seems like it would get crazy powerful for transclusions - would love to see examples
+01:14:35	Norman Chella:	shortcut to switch between page/aliasing  function on the same open bracket?
+01:16:20	Blaine Cook:	So the trick then is to have dual link / offsets. I haven’t figured the right way to encode this, but having text offsets and timecode offsets into the video would create an automatic captioning tool (or whatever we can imagine)
+01:16:59	Marc-Antoine Parent:	an early version of Pundit had time _and_ spatial regions
+01:17:10	Norman Chella:	Maybe an outliner format/'text file' with every video/audio file for timestamps and threading function?
+01:19:17	Marc-Antoine Parent:	Intent to open-source it?
+01:19:23	Michael Gartner:	https://www.patreon.com/codexeditor
+01:20:11	Gyuri Lajos:	Its turtles all the way up
+01:20:39	Wendy Elford:	Standoffs - like triples? Meta data about metadata.
+01:21:09	john knowles:	Anyone have experience using Interval Trees to express standoff ranges?
+01:21:18	Michael Gartner:	😊
+01:22:06	Marc-Antoine Parent:	@John played a bit, not extensively
+01:22:43	Boris Mann:	https://github.com/argimenes/standoff-properties-editor
+01:23:13	Blaine Cook:	@john knowles: there’s a *ton* of optimization work to be done in this space. All of the implementations I know of are pretty naive, but ropes/interval trees or some combination probably feature in the implementation long-term
+01:23:24	Marc-Antoine Parent:	there's indeed a long conversation to have there :-)
+01:23:32	Frode Hegland:	This will be my answer to the open source question later :-)
+01:23:51	Norman Chella:	Setting the stage hahaha
+01:24:21	Marc-Antoine Parent:	I think actually, open format is even more important here. Interoperability is key.
+01:24:23	Frode Hegland:	Yes, exactly Iian :-)
+01:24:31	Norman Chella:	hahahahhahahaha
+01:24:32	Michael Gartner:	BDFL!
+01:24:33	Frode Hegland:	Yes, MA
+01:24:51	Blaine Cook:	👏👏👏👏👏
+01:24:51	Marc-Antoine Parent:	Amazing work, thank you!
+01:24:51	Jeff Griffiths:	Super cool!
+01:24:53	Norman Chella:	👏
+01:26:39	Iian Neill:	Definitely want the format to be as open as possible
+01:27:03	Marc-Antoine Parent:	Thank you. Would love to discuss that in depth.
+01:27:37	Iian Neill:	Please DM me at any time on Twitter to discuss further
+01:27:51	Marc-Antoine Parent:	Thank you.
+01:33:58	Norman Chella:	Very intentional concept mapping, interesting
+01:38:02	Jess Martin:	I see what Frode was talking about in terms of his work being "document-centric" rather than "process-centric". Seems to be starting from the perspective of a _document to be read_ rather than _notes to be written_.
+01:39:37	Jess Martin:	document vs process focus is a really interesting mind-shift. whereas Iian is focused on process, but more like an OS replacement.
+01:39:58	Brian James Rubinton - Kanopi.io:	For the kids!
+01:40:11	Jack Park:	Doug Engelbart’s Mother of All Demos was about document processing.
+01:40:13	Iian Neill:	Love it, Frode!
+01:40:17	Michael Gartner:	👏
+01:40:19	Jess Martin:	🤯
+01:41:23	Norman Chella:	Happy birthday!
+01:41:27	Iian Neill:	Happy birthday!
+01:42:29	Jess Martin:	"at some point you have to publish" :)
+01:44:10	Frode Hegland:	The community: https://future-of-text.circle.so/c/welcome
+01:46:59	Michael Gartner:	👏
+01:47:02	Marc-Antoine Parent:	Great progress!
+01:47:04	Blaine Cook:	👏👏👏👏👏👏
+01:47:05	Iian Neill:	*applause*
+01:47:16	Peter Wasilko:	Bravo Frode!
+01:47:23	john knowles:	Thanks Frode!
+01:47:35	Michael Gartner:	I love that his picture looked exactly like he was still there!
+01:47:37	Norman Chella:	👏
+01:47:39	Frode Hegland:	:-) than you all
+01:47:56	Iian Neill:	Great work, Frode! Would love to catch up sometime.
+01:47:58	Jess Martin:	it's laaate on the east coast. note-taking rate has slowed significantly 🤣
+01:48:40	Marc-Antoine Parent:	You're telling me... I started my zoom day 14h ago, almost non-stop (one 15 minutes break)
+01:51:03	Frode Hegland:	Real digital paper… yes…
+01:51:10	Jess Martin:	@map: wow! 😬 I can't maintain that level of focus...
+01:51:54	Marc-Antoine Parent:	Not sure I can either!
+01:51:56	Jess Martin:	hmmmm "model-aided notetaking". that's perking me up :)
+01:53:10	Iian Neill:	Indeed. :-)
+01:53:18	Marc-Antoine Parent:	no
+01:53:50	Norman Chella:	Oh wow, it's like building your own subway system of your thinking
+01:54:09	Marc-Antoine Parent:	vaguely reminded of Frontier
+01:54:21	Boris Mann:	So many 2 decades old memories
+01:54:33	Marc-Antoine Parent:	do want to see more!
+01:54:34	Michael Gartner:	+1 for live!
+01:55:06	Marc-Antoine Parent:	Yay for live link labels!
+01:56:49	Jack Park:	Kanopi youtube https://www.youtube.com/watch?v=ht30-Qi3C6A
+01:56:55	Jess Martin:	would love to see an example of spatial organization... most tools focus on text and/or structured representations like graphs / trees. would love to be able to spatially organize my notes and maintain that. "window organization as unit of work"
+01:58:20	Jess Martin:	ah, "model" as in machine learning model?
+01:59:11	Marc-Antoine Parent:	Bravo!
+01:59:15	Blaine Cook:	👏👏👏👏👏
+01:59:17	Jack Park:	https://github.com/brianru
+01:59:17	Iian Neill:	Awesome!
+01:59:20	Frode Hegland:	Great!
+01:59:25	Iian Neill:	Seeing lots of  overlap...
+01:59:45	Jack Park:	Tinderbox, as I recall, allows you to make a node a type.
+02:00:52	Marc-Antoine Parent:	yes, Tinderbox could be said to be using a prototype-based OO model.
+02:01:35	Peter Wasilko:	http://www.eastgate.com/Tinderbox/
+02:01:43	Marc-Antoine Parent:	The thing with flexible data models is that others have to adapt to it...
+02:02:11	Peter Wasilko:	Tinderbox is one of the few proprietary tools I can’t live without.
+02:02:19	Iian Neill:	Hmmm
+02:03:04	Blaine Cook:	You could put those ingredient links right on the recipe method text ;-)
+02:03:07	A B:	That's nice
+02:03:20	Marc-Antoine Parent:	There's a lot to love about Tinderbox. I have not yet found something that fits my brain perfectly, but Tinderbox came close
+02:03:33	Norman Chella:	Overlay Kanopi window within codex OS?
+02:03:36	Iian Neill:	Lots of overlap with the graph meta-model between Codex and Canopi
+02:04:02	Michael Gartner:	👍
+02:04:03	Norman Chella:	Then you have a window for Kanopi interface, but the entities translate between both like the FG/BG in the Codex presentation?
+02:04:08	Marc-Antoine Parent:	Interchange first!
+02:04:09	Iian Neill:	@Norman: would be keen to do that
+02:04:16	Frode Hegland:	yes
+02:04:20	Frode Hegland:	Interchange
+02:04:28	Frode Hegland:	Visual-meta….   ;-)
+02:04:45	Norman Chella:	A new interchange language :D
+02:04:46	Jess Martin:	"interchange-first software" :-P  like Ink and Switch's Local-First Software mantra.
+02:04:46	Iian Neill:	Interchange gives the most freedom to individual developers to explore the problems deeply
+02:04:50	Marc-Antoine Parent:	But the point about most flexible data wins applies ;-)
+02:05:04	Peter Wasilko:	Tinderbox files are stored as XML, I’d love to see an atJSON converter for them.
+02:05:13	Jess Martin:	Muse
+02:05:14	Boris Mann:	My kingdom for threaded chat AND react emotions so I can applause Jess
+02:05:29	Marc-Antoine Parent:	Actually internal tinderbox xml uses standoff annotation!
+02:05:37	Jess Martin:	totally - and I love the idea of multiple maps!
+02:05:42	Iian Neill:	@Marc: interesting...
+02:06:11	Peter Wasilko:	Maybe Mark Bernstein could be invited to present here.
+02:06:12	Gyuri Lajos:	https://www.eventbrite.com/e/understory-digital-garden-club-tickets-151313531847?utm_source=eventbrite&utm_medium=email&utm_campaign=reminder_attendees_48hour_email&utm_term=eventname&ref=eemaileventremind
+02:06:18	Jess Martin:	@boris: feeling that need for react emotions too 😕
+02:06:22	Marc-Antoine Parent:	Great idea inviting Mark
+02:06:57	Iian Neill:	*claps*
+02:06:59	Michael Gartner:	👏👏
+02:06:59	Norman Chella:	👏👏
+02:07:01	Blaine Cook:	👏👏👏
+02:07:02	Jess Martin:	👏👏
+02:07:03	Peter Wasilko:	Bravo Brian
+02:07:07	Marc-Antoine Parent:	Thanks a lot! and Bravo again to all!
+02:07:21	Norman Chella:	Thank you everybody! Really exciting stuff
+02:07:21	Wendy Elford:	thanks - new to the tribe
+02:07:24	Frode Hegland:	Lovely evening. I mean night :-)
+02:07:48	Gyuri Lajos:	Thank you all, great event again
+02:07:48	Frode Hegland:	Feel free to join us working on the future of text https://future-of-text.circle.so/c/welcome
+02:08:20	Jack Park:	https://topia.io/event/understory-digital-gardening-club/2022-03-04/
+02:08:43	Frode Hegland:	No!!!!!!!!!! Next meeting please? Maybe monthly?…
+02:09:08	Peter Wasilko:	+1 Frode’s sentiment!
+02:09:21	Marc-Antoine Parent:	indeed!
+02:09:58	Frode Hegland:	Juts thank you
